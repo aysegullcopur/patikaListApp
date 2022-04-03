@@ -1,2 +1,2 @@
-# patikaListApp
+# patikaTableView
 Table View and Delegate 
